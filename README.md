@@ -1,10 +1,10 @@
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=DDoch98&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DDoch98&fontSize=90)
 <br>
  ![Somae's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDoch98&show_icons=true&theme=radical)
   
-세상에 재미난 게 너무 많습니다. <br>
+세상에 재미난 게 너무 많습니다~ <br>
   
 <hr>
 <br>  
